@@ -3,3 +3,4 @@ fn main() {
 	let salary:f64 =35_000.00;
 	printlin!("fees is {} and salary is {}",fees,salary);
 }
+

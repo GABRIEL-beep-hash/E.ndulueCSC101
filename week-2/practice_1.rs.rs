@@ -9,4 +9,4 @@ fn main(){
 	4.conversant with application of computer science,/n
 	5.Navigate the career prospects in computer science./n
 	6. Conversant with computer programming concepts." );
-}
+}							
