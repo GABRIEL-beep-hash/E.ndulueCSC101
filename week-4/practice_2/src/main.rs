@@ -12,7 +12,7 @@ fn main() {
 
      println!("Enter second edge of triangle: ");
     io::stdin().read_line(&mut input2).expect("Not a valid String");
-    let b:f32 = input2.trim().parse().expect("Not a valid number");
+    let b:f64= input2.trim().parse().expect("Not a valid number");
     
 
      println!("Enter third edge of triangle: ");
