@@ -33,7 +33,9 @@ fn  main() {
         println!("Discriminant is positive → two real root");
 
     } else if discriminant == 0.0 {
+        let root = -b/(2.0*a);
         println!("Discriminant is zero → one real root");  
+        println!("root = {}",root);
 
     } else {
         println!("Discriminant is negative →complex root")
